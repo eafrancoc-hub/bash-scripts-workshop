@@ -49,6 +49,6 @@ then
 	then
 		echo "El valor más grande es $valor3 y el más pequeño es $valor2"
 	else
-		echo "El valor más grande es $valor3 y el más pequeño es $valor2"
+		echo "El valor más grande es $valor3 y el más pequeño es $valor1"
 	fi
 fi
